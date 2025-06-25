@@ -2,9 +2,35 @@
 
 ## **Required Packages**
 
-* `axios`
-* `tailwindcss`
-* `zustand`
+```
+{
+  "dependencies": {
+    "@shadcn/ui": "^0.0.4",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "autoprefixer": "^10.4.20",
+    "axios": "^1.7.7",
+    "crypto-js": "^4.2.0",
+    "lucide-react": "^0.453.0",
+    "moment": "^2.30.1",
+    "postcss": "^8.4.47",
+    "react": "^18.3.1",
+    "react-chat-elements": "^12.0.16",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.27.0",
+    "react-scripts": "5.0.1",
+    "socket.io-client": "^4.8.0",
+    "tailwindcss": "^3.4.14",
+    "web-vitals": "^2.1.4",
+    "zustand": "^5.0.1"
+  },
+  ...
+}
+```
+
+* node version: v18.17.0
+* 명시된 모든 Package의 버전을 그대로 사용해서 프로젝트를 생성해줘.
 
 ## **Other Configuration Notes**
 
