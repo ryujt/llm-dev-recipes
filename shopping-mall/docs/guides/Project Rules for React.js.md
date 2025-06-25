@@ -15,16 +15,15 @@
     "lucide-react": "^0.453.0",
     "moment": "^2.30.1",
     "postcss": "^8.4.47",
-    "react": "^18.3.1",
-    "react-chat-elements": "^12.0.16",
+    "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.27.0",
     "react-scripts": "5.0.1",
     "socket.io-client": "^4.8.0",
-    "tailwindcss": "^3.4.14",
+    "tailwindcss": "^3.3.5",
     "web-vitals": "^2.1.4",
     "zustand": "^5.0.1"
-  },
+  }
   ...
 }
 ```
